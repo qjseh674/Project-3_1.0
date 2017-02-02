@@ -1,0 +1,44 @@
+﻿/*
+   New Perspectives on HTML and CSS
+   Tutorial 3
+   Case Problem 2
+
+   Mountain Wheels Text and Color Style
+   Author: Quinn Sehenuk
+   Date: 2/1/17
+
+   Filename:         mw_layout.css
+   Supporting Files: none
+
+*/
+nav ul li a{
+  color: rgba(255, 255, 255, 0.5);
+  background-color: rgb(125, 120, 89);
+  line-height: 3em;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+nav ul li a:hover{
+ color: yellow;
+ color: rgb(255, 255, 255, 0.5);
+
+}
+
+nav ul li:hover{
+  background-color:rgb(131, 121, 36);
+
+}
+
+#leftsection p
+
+body{
+  font-family: Tahoma, Geneva, sans-serif.;
+}
+
+#articleheader{
+  font-size: 18px;
+  font-weight: normal;
+  font-kerning: 7px;
+  text-align: center;
+}
